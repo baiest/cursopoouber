@@ -1,3 +1,3 @@
-var car = new Car("OLA121", new Account("Andres Herrera", "24115"));
+var car = new UberX("OLA121", new Account("Andres Herrera", "24115"), "Cheverolte", "Bold");
 
 car.printDataCar();
